@@ -1,5 +1,5 @@
-# RENAME_ME
+# simplepicks
 
-A watched pot never boilerplates.
+A very very simple automated game loop.
 
-Yes, this is just my personal boilerplate for the minimal _comfortable_ configuration.
+Spawn goodies. Go and get them and return them to the bin.

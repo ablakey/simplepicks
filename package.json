@@ -1,5 +1,5 @@
 {
-  "name": "RENAME_ME",
+  "name": "simplepicks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -39,5 +39,8 @@
     "parcel": "^2.7.0",
     "prettier": "^2.7.1",
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
   }
 }
